@@ -6,6 +6,8 @@ This is a simple Note Taker application built with Express.js. The app allows us
 
 [Click here to view the live webpage!]()
 
+![General overview of the webpage](./public/assets/images/general-overview.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -26,10 +28,13 @@ Apart from the deployed application which link was provided in the description, 
 
 ## Usage
 
-1. __Click "Get Started"__: This action opens the Note Taker application, allowing you to start creating notes.
-2. __Enter text into the 'title' and 'text' fields__: Once the Note Taker is open, you can fill in the 'title' and 'text' fields with the content of your note. The 'title' field is for a brief description or title of the note, while the 'text' field is where you can write the detailed content of the note.
+1. __Click the "Get Started" button__: This action opens the Note Taker application, allowing you to start creating notes.
+![Get started button location](./public/assets/images/get-started.png)
+2. __Enter text into the 'Note Title' and 'Note Text' fields__: Once the Note Taker is open, you can fill in the 'title' and 'text' fields with the content of your note. The 'title' field is for a brief description or title of the note, while the 'text' field is where you can write the detailed content of the note.
+![Visual reference of where to write the note](./public/assets/images/new-note.png)
 3. __Click the save icon (top right)__: After entering your note's title and text, click the save icon located at the top right corner of the application. This action will save your note, preserving the information you've entered.
-4. __To add another note, click the + icon (top right)__: If you wish to create another note, simply click the + icon also located at the top right corner. This allows you to create multiple notes within the application.
+![Save icon location](./public/assets/images/save-note.png)
+4. __To add another note, repeat step 1 or click the 'New Note' button__: If you wish to create another note, simply click the + icon also located at the top right corner. This allows you to create multiple notes within the application.
 5. __To delete saved notes, click the trash icon__: If you want to remove a note from your list of saved notes, click the trash icon next to the respective note. This action will delete the selected note from the application.
 
 ## Credits
