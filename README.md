@@ -4,7 +4,7 @@
 
 This is a simple Note Taker application built with Express.js. The app allows users to create, view, and delete notes by providing a simple interface to quickly write down and organize thoughts and tasks.
 
-[Click here to view the live webpage!](https://marcusmr15.github.io/note-taker/)
+[Click here to view the live webpage!](https://marcusmr15-note-taker-565899f027e7.herokuapp.com/)
 
 ![General overview of the webpage](./public/assets/images/general-overview.png)
 
